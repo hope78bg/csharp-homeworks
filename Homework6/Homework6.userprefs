@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="ConditionalStatements/ConditionalStatements.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZeroSubset/ZeroSubset.cs">
+    <Files>
+      <File FileName="BeerTime/BeerTime.cs" Line="1" Column="1" />
+      <File FileName="NumberAsWords/NumberAsWords.cs" Line="1" Column="1" />
+      <File FileName="ZeroSubset/ZeroSubset.cs" Line="1" Column="1" />
+      <File FileName="TheBiggestOf3Numbers/TheBihhestOf3Numbers.cs" Line="1" Column="1" />
+      <File FileName="Sort3NumbersWithNestedIfs/Sort3NumbersWithNestedIfs.cs" Line="1" Column="1" />
+      <File FileName="PlayWithIntDoubleAndString/PlayWithIntDoubleAndString.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

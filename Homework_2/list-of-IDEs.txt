@@ -1,0 +1,47 @@
+﻿1.CodeLite
+CodeLite is an open source, free, cross platform IDE specialized in C, C++, PHP 
+and JavaScript (mainly for backend developers using Node.js) programming 
+languages which runs best on all major Platforms ( OSX, Windows and Linux ) 
+CodeLite offers a variety of features, including two built-in completion 
+engines, compilers, refactoring, code navigation, and more.
+2.Code::Blocks
+Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding 
+needs of its users. It is designed to be very extensible and fully 
+configurable.An IDE with all the features you need, having a consistent look, 
+feel and operation across platforms.Built around a plugin framework, 
+Code::Blocks can be extended with plugins. Any kind of functionality can be 
+added by installing/coding a plugin. 
+4. Eclipse
+It contains a base workspace and an extensible plug-in system for customizing 
+the environment. Eclipse is written mostly in Java and its primary use is for 
+developing Java applications, but it may also be used to develop applications in
+other programming languages .
+5. Komodo IDE
+Komodo is a comprehensive IDE that supports all major programming languages, 
+providing a single tool that meets your development needs across the spectrum. 
+Whether you re working with Python, PHP, Ruby, Perl, HTML, CSS, or JavaScript, 
+Komodo provides a clean, intuitive interface with advanced editing capabilities 
+and integrated tools for the most functionality. 
+6. NetBeans
+An intuitive, drag-and-drop interface with project templates, binary and static 
+libraries, and many useful functions to make your life simpler, NetBeans is a 
+popular IDE for C and C++ projects. NetBeans is also referred to as a platform 
+of modular components used for developing Java desktop applications.It is a 
+functional IDE for editing existing projects, building on templates, or building
+from scratch on most leading platforms. 
+7. Cloud 9 IDE
+Is a freeware online integrated development environment. It supports hundreds of
+programming languages, including PHP, Ruby, Python, JavaScript with Node.js, and
+Go. It enables developers to get started with coding immediately with pre-setup 
+workspaces, collaborate with their peers with collaborative coding features, and
+web development features like live preview and browser compatibility testing.It 
+is written almost entirely in JavaScript, and uses Node.js on the back-end.
+8. Aptana Studio is an IDE for building web applications. Based on Eclipse, it
+supports JavaScript, HTML, DOM and CSS with code-completion, outlining, 
+JavaScript debugging, error and warning notifications and integrated 
+documentation. Additional plugins allow Aptana Studio to support Ruby on Rails, 
+PHP, Python, Perl,[1] Adobe AIR, Apple iPhone and Nokia WRT (Web Runtime). 
+Aptana Studio is available as a standalone on Windows,Mac OS X and Linux, or as
+aplugin for Eclipse.
+
+

@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="05_MyName/05_PrintMyName.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="09_Sequence/Sequence.cs">
+    <Files>
+      <File FileName="09_Sequence/Sequence.cs" Line="21" Column="2" />
+      <File FileName="14_CurrentDateAndTime/14_CurrentDateAndTime.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

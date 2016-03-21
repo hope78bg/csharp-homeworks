@@ -1,0 +1,38 @@
+﻿<Properties>
+  <StartupItems>
+    <String>07_Calculate/07_Calculate.csproj</String>
+    <String>05_Calculate/05_Calculate.csproj</String>
+    <String>04_PrintADeckof52Cards/04_PrintADeckof52Cards.csproj</String>
+    <String>09_MatrixOfNumbers/09_MatrixOfNumbers.csproj</String>
+    <String>10_OddAndEvenProduct/10_OddAndEvenProduct.csproj</String>
+    <String>11_RandomNumbersInGivenRange/11_RandomNumbersInGivenRange.csproj</String>
+    <String>13_BinaryToDecimalNumber/13_BinaryToDecimalNumber.csproj</String>
+    <String>14_DecimalToBinaryNumber/14_DecimalToBinaryNumber.csproj</String>
+    <String>15_HexadecimalToDecimalNumber/15_HexadecimalToDecimalNumber.csproj</String>
+    <String>16_DecimalToHexadecimalNumber/16_DecimalToHexadecimalNumber.csproj</String>
+    <String>08_CatalanNumbers/08_CatalanNumbers.csproj</String>
+    <String>03_MinMaxSumAndAverageOfNNumbers/03_MinMaxSumAndAverageOfNNumbers.csproj</String>
+    <String>02_NumbersNotDivisibleBy3And7/02_NumbersNotDivisibleBy3And7.csproj</String>
+    <String>06_CalculateNK/06_CalculateNK.csproj</String>
+    <String>01_NumbersFrom1toN/01_NumbersFrom1toN.csproj</String>
+  </StartupItems>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10_OddAndEvenProduct/OddAndEvenProduct.cs">
+    <Files>
+      <File FileName="08_CatalanNumbers/CatalanNumbers.cs" Line="1" Column="1" />
+      <File FileName="07_Calculate/Calculate.cs" Line="1" Column="1" />
+      <File FileName="10_OddAndEvenProduct/OddAndEvenProduct.cs" Line="9" Column="31" />
+      <File FileName="01_NumbersFrom1toN/NumbersFrom1toN.cs" Line="1" Column="1" />
+      <File FileName="02_NumbersNotDivisibleBy3And7/NumbersNotDivisibleBy3And7.cs" Line="1" Column="1" />
+      <File FileName="03_MinMaxSumAndAverageOfNNumbers/MinMaxSumAndAverageOfNNumbers.cs" Line="1" Column="1" />
+      <File FileName="04_PrintADeckof52Cards/Program.cs" Line="1" Column="1" />
+      <File FileName="05_Calculate/Calculate.cs" Line="1" Column="1" />
+      <File FileName="06_CalculateNK/CalculateNK.cs" Line="1" Column="1" />
+      <File FileName="09_MatrixOfNumbers/MatrixOfNumbers.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

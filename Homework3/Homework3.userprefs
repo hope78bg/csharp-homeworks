@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VariableInHexadecimalFormat/VariableInHexadecimalFormat.cs">
+    <Files>
+      <File FileName="PrintTheASCIITable/PrintTheASCIITable.cs" Line="1" Column="1" />
+      <File FileName="ComparingFloats/ComparingFloats.cs" Line="15" Column="46" />
+      <File FileName="nkAccountData/BankAccountData.cs" Line="1" Column="1" />
+      <File FileName="BooleanVariable/BooleanVariable.cs" Line="1" Column="1" />
+      <File FileName="EmployeeData/EmployeeData.cs" Line="1" Column="1" />
+      <File FileName="IsoscelesTriangle/IsoscelesTriangle.cs" Line="1" Column="1" />
+      <File FileName="StringsandObjects/StringsandObjects.cs" Line="1" Column="1" />
+      <File FileName="UnicodeCharacter/UnicodeCharacter.cs" Line="1" Column="1" />
+      <File FileName="VariableInHexadecimalFormat/VariableInHexadecimalFormat.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <StartupItems>
+    <String>DeclareVariables/DeclareVariables.csproj</String>
+    <String>FloatOrDouble/FloatOrDouble.csproj</String>
+    <String>VariableInHexadecimalFormat/VariableInHexadecimalFormat.csproj</String>
+    <String>UnicodeCharacter/UnicodeCharacter.csproj</String>
+    <String>BooleanVariable/BooleanVariable.csproj</String>
+    <String>StringsandObjects/StringsandObjects.csproj</String>
+    <String>QuotesInString/QuotesInString.csproj</String>
+    <String>IsoscelesTriangle/IsoscelesTriangle.csproj</String>
+    <String>ExchangeVariableValues/ExchangeVariableValues.csproj</String>
+    <String>EmployeeData/EmployeeData.csproj</String>
+    <String>nkAccountData/BankAccountData.csproj</String>
+    <String>NullValuesArithmetic/NullValuesArithmetic.csproj</String>
+    <String>ComparingFloats/ComparingFloats.csproj</String>
+    <String>PrintTheASCIITable/PrintTheASCIITable.csproj</String>
+  </StartupItems>
+</Properties>
